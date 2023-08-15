@@ -1,6 +1,6 @@
 {
-    "name": "pnote",
-    "short_name": "pnote",
+    "name": "dailydose",
+    "short_name": "dailydose",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
